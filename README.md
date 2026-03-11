@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm D3V1L0M3N</h1>
-<h3 align="center">I am a self-taught freelance developer with a strong interest in transforming innovative ideas into fully functioning applications.</h3>
+<h3 align="center">I am web developer who likes coding cool ideas - sometimes successfully.</h3>
+<h3 align="center">I also like building and fixing computers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3v1l0m3n&label=Profile%20views&color=0e75b6&style=flat" alt="d3v1l0m3n" /> </p>
 
